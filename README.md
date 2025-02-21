@@ -1,5 +1,5 @@
 ### SQL Capstone Project <br/>
-I worked on a real-time Airline Database case study, where you were required to analyze data and extract meaningful insights. The database contained multiple tables, such as Flights, Passengers, Bookings, Airports, and Crew, with relationships between them.<br/>
+I have worked on a real-time Airline Database case study, where you were required to analyze data and extract meaningful insights. The database contained multiple tables, such as Flights, Passengers, Bookings, Airports, and Crew, with relationships between them.<br/>
 Joining multiple tables to combine relevant information.
 Using CASE statements to create conditional logic within queries.
 Implementing loop statements for iterative tasks (if using procedural SQL like PL/SQL).
